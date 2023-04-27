@@ -1,4 +1,4 @@
-# C
+```C
 //반복문 예제
 #include <stdio.h>
 int main(void)
