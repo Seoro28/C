@@ -18,7 +18,7 @@ int main(void)
 
 ```
 
-// while 문을 이용한 구구단 출력 프로그램
+//while 문을 이용한 구구단 출력 프로그램
 
 #include <stdio.h>
 int main(void){
