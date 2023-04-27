@@ -17,7 +17,9 @@ int main(void)
 //Hello world가 0 1 2 3 4 총 다섯 번이 출력됨
 
 ```
+
 // while 문을 이용한 구구단 출력 프로그램
+
 #include <stdio.h>
 int main(void)
 {
@@ -34,7 +36,9 @@ int main(void)
     return 0; 
 }
 ```
+
 // 정수를 입력받아 1부터 입력받은 정수까지의 짝수 합을 구하는 식
+
 #include <stdio.h>
 int main(void)
 {
