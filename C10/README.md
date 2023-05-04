@@ -1,5 +1,5 @@
 # C
-```C
+```
 #include <stdio.h>
 int main(){
 
@@ -49,9 +49,6 @@ int get_integer(void){
 }
 ```
 #include <stdio.h>
-// int minus(int x, int y);
-// int multi(int x, int y);
-// int div(int x, int y);
 
 int get_integer()
 {
