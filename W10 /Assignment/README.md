@@ -418,7 +418,7 @@ void drawbar(int height){
 
 int main(void){
     int degree, x, y;
-    for(degree = 0; degree <=90; degree += 10){
+    for(degree = 0; degree <=180; degree += 10){
         y = (int)(60 * sin(rad((double)degree)) + 0.5);
         drawbar(y);
     }
